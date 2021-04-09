@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">login</string>
+
+    <string name="txt_cartel">Ingrese su usario</string>
+    <string name="edit_txt_user">Usuario</string>
+    <string name="edit_txt_password">Contraseña</string>
+    <string name="btn_ingresar">Acceder</string>
+
+
+</resources>
